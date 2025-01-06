@@ -1,5 +1,3 @@
-# Firebase CRUD REST API
-
 This project demonstrates how to create a simple REST API in Node.js using Firebase Realtime Database for data storage. It implements basic CRUD operations: Create, Read, Update, and Delete.
 
 ## Features
